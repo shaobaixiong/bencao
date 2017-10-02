@@ -1,0 +1,11 @@
+start = db
+db = element db {geo+}
+geo = element geo {id, lat, lon, name, source, time, also*, basis*}
+id = attribute id {xsd:ID}
+lat = attribute lat {text}
+lon = attribute lon {text}
+name = attribute name {text}
+source = attribute source {"chgis"|"maps.google.com"|"osm"}
+time = attribute time {"ex"|"la"|"ea"}
+also = attribute also {text}
+basis = attribute basis {text}
