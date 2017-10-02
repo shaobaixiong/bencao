@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<db>
+    <geo id="hvd_70751" lat="34.23927" lon="109.14697" name="蓝田县" source="chgis" time="ex"/>
+    <geo id="hvd_32852" lat="28.13941" lon="110.18102" name="南阳郡" source="chgis" time="ex"/>
+    <geo id="hvd_110423" lat="18.67100" lon="105.67340" name="日南郡" source="chgis" time="la"/>
+    <geo id="yutian" lat="37.1121523" lon="79.9113453" name="于阗" basis="于阗国都城西城，今约特干遗址" source="map.google.com" time="ex"/>
+    <geo id="shule" lat="39.5171345" lon="75.9341008" name="疏勒" basis="今喀什" source="maps.google.com" time="la"/>
+    <geo id="hvd_115234" lat="29.29206" lon="108.17096" source="chgis" name="涪陵郡" time="ex"/>
+    <geo id="hvd_71125" name="仇池县" lat="33.78718" lon="105.78284" source="chgis" time="la"/>
+    <geo id="hvd_45941" name="武陵郡" lat="32.18867" lon="109.94073" source="chgis" time="ex"/>
+    <geo id="hvd_113524" name="益州" lat="30.65039" lon="104.07800" also="西川" source="chgis" time="ex"/>
+    <geo id="hvd_35100" name="临漳郡" lat="21.79058" lon="109.28831" time="ex" source="chgis"/>
+    <geo id="hvd_110288" name="越嶲郡" lat="27.89982" lon="102.26695" time="la" source="chgis" also="越西"/>
+    <geo id="hvd_115968" name="西平郡" lat="36.60886" lon="101.78394" time="ex" source="chgis"/>
+    <geo id="taishan" name="泰山" lat="36.2569183" lon="117.1031750" time="ex" source="osm" also="太山"/>
+</db>
