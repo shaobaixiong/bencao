@@ -14,7 +14,7 @@ return <Placemark>
 </coordinates>
 </Point>
 <ExtendedData>
-<Data name="location"><value>{}</value>
+<Data name="location"><value>{$location/}</value>
 </Data>
 </ExtendedData>
 </Placemark>

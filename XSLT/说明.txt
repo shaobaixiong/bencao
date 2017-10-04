@@ -1,0 +1,5 @@
+说明：
+1.先打开text_玉石上.xml与text-table.xsl。
+2.转换xml为html。
+3.将html与text-table_II.xsl打开，转换。
+4.搜索<quote>与</quote>并替换。

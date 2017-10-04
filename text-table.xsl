@@ -6,21 +6,15 @@
     <xsl:output indent="yes" method="xml"/>
     <xsl:template match="/">
         <html>
-            <head><title>Herbs</title>
-            <style>
-                .geo {
-                background-color: rgba(255, 242, 5, 0.5);
-                }
-            </style></head>
+            <head><title>Herbs</title></head>
             <body>
-                <table border="1">
-                    <tr>
-                        <th>Herb</th>
-                        <th>Location</th>
-                        <th>Locatioin ID</th>
-                        <th>Quote</th>
-                        <th>Source</th>
-                    </tr>
+                <table><tr>
+                    <th>Herb</th>
+                    <th>Place</th>
+                    <th>Place ID</th>
+                    <th>Quote</th>
+                    <th>Source</th>
+                </tr>
                     <xsl:apply-templates select="//geo"/>
                 </table>
             </body>
@@ -31,9 +25,10 @@
             <td><xsl:value-of select="./ancestor::herb/@name"/></td>
             <td><xsl:value-of select="."/></td>
             <td><xsl:value-of select="./@ref"/></td>
-            <td><xsl:copy-of select="./ancestor::quote"/></td>
+            <td><xsl:value-of select="./ancestor::quote"/></td>
             <td><xsl:if test="./ancestor::s"><xsl:text>神农本草经集注</xsl:text></xsl:if>
-            <xsl:if test="./ancestor::x"><xsl:text>新修本草</xsl:text></xsl:if></td>
+                <xsl:if test="./ancestor::x"><xsl:text>新修本草</xsl:text></xsl:if>
+            </td>
         </tr>
     </xsl:template>
 </xsl:stylesheet>
