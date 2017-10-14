@@ -37,4 +37,13 @@
     <geo id="lushan" lat="29.5725" lon="115.973333" name="庐山" source="Wikipedia" time="modern"/>
     <geo id="hvd_115519" lat="35.15380" lon="118.38945" name="琅琊国" source="chgis" time=" from 206 to 215 "/>
     <geo id="hvd_112972" lat="36.69748" lon="118.47810" name="青州" source="chgis" time=" from 418 to 606 "/>
+    <geo id="songshan" lat="34.5196623" lon="112.9865424" name="嵩山" also="少室山" source="maps.google.com" time="modern"/>
+    <geo id="hvd_43676" lat="30.35044" lon="112.19077" name="江陵縣" source="chgis" time=" from 23 to 1911 "/>
+    <geo id="hvd_34093" lat="23.13462" lon="113.25607" name="廣州" source="chgis" time=" from 621 to 741 "/>
+    <geo id="hvd_34083" lat="24.77970" lon="112.37812" name="連州" source="chgis" time=" from 621 to 741 "/>
+    <geo id="hvd_32946" lat=" 29.62132 " lon="111.82449" name="澧州" source="chgis" time=" from 621 to 741 "/>
+    <geo id="hvd_32878" lat="29.03481" lon="111.69130" name="朗州" source="chgis" time="from 621 to 741 "/>
+    <geo id="hvd_32839" lat="25.80272" lon=" 113.02514" name="郴州" source="chgis" time=" from 621 to 741 "/>
+    <geo id="hvd_34457" lat="30.70423" lon="111.28712" name="峽州" source="chgis" time=" from 635 to 741 "/>
+    <geo id="hvd_34484" lat="32.05897" lon="" name="110.72715" source="chgis" time=" from 636 to 741 "/>
 </db>

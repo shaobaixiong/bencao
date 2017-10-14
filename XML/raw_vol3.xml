@@ -63,10 +63,10 @@
     </herb>
     <herb name="石钟乳">
         <sy>味甘，温，无毒。主咳逆上气，明目，益精，安五脏，通百节，利九窍，下乳汁，益气，补虚损，疗脚弱疼冷，下瞧伤竭，强阴。久服延年益寿，好颜色，不老，令人有子。
-            不练服之，令人淋。一名公乳，一名芦石，一名夏石。生少室山谷及太山，采无时。</sy>
-        <s>蛇床为之使，恶牡丹、玄石、牡蒙，畏紫石英、 草。第一出始兴，而江陵及东境名山石洞亦皆有。惟通中轻薄如鹅翎管，碎之如爪甲，中无雁齿，光明者为善。长挺乃有一二尺者。
+            不练服之，令人淋。一名公乳，一名芦石，一名夏石。<quote>生<geo ref="songshan" condition="true">少室山谷</geo>及<geo ref="taishan" condition="true">太山</geo>，采无时。</quote></sy>
+        <s>蛇床为之使，恶牡丹、玄石、牡蒙，畏紫石英、 草。<quote>第一出<geo ref="hvd_92233" condition="true">始兴</geo>，而<geo ref="hvd_43676" condition="true">江陵</geo>及<geo ref="/" condition="/">东境名山石洞</geo>亦皆有。</quote>惟通中轻薄如鹅翎管，碎之如爪甲，中无雁齿，光明者为善。长挺乃有一二尺者。
             色黄，以苦酒洗刷则白。《仙经》用之少，而俗方所重，亦甚贵。</s>
-        <x>〔谨案〕钟乳第一始兴，其次广、连、澧、朗、郴等州者，虽浓而光润可爱，饵之并佳。今峡州、青溪、房州三洞出者，亚于始兴。自余非其土地，不可轻服。多发淋渴，止可捣筛，白练裹之，合诸药草浸酒服之。陶云钟乳一、二尺者，谬说。
+        <x>〔谨案〕<quote>钟乳第一<geo ref="hvd_92233" condition="continue">始兴</geo>，其次<geo ref="hvd_34093" condition="true">广</geo>、<geo ref="hvd_34083" condition="true">连</geo>、<geo ref="hvd_32946" condition="true">澧</geo>、<geo ref="hvd_32878" condition="true">朗</geo>、<geo ref="hvd_32839" condition="true">郴</geo>等州者，虽浓而光润可爱，饵之并佳。今<geo ref="hvd_34457" condition="true">峡州</geo>、<geo ref="qingxi" condition="true" status="uc">青溪</geo>、<geo ref="hvd_34484" condition="true">房州</geo>三洞出者，亚于始兴。</quote>自余非其土地，不可轻服。多发淋渴，止可捣筛，白练裹之，合诸药草浸酒服之。陶云钟乳一、二尺者，谬说。
         </x>
     </herb>
     <herb name="朴硝">
