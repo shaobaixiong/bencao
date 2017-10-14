@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<db>
+   <text_db name="玉屑"
+            location="蓝田"
+            ID="hvd_70751"
+            quote="生蓝田，采无时。"
+            source="神农本草经集注"/>
+   <text_db name="玉屑"
+            location="南阳徐善亭部界"
+            ID="hvd_32852"
+            quote="好玉出蓝田，及南阳徐善亭部界中，日南、卢容水中，外国于阗、疏勒诸处皆善。"
+            source="神农本草经集注"/>
+   <text_db name="玉屑"
+            location="日南"
+            ID="hvd_110423"
+            quote="好玉出蓝田，及南阳徐善亭部界中，日南、卢容水中，外国于阗、疏勒诸处皆善。"
+            source="神农本草经集注"/>
+   <text_db name="玉屑"
+            location="卢容"
+            ID="/"
+            quote="好玉出蓝田，及南阳徐善亭部界中，日南、卢容水中，外国于阗、疏勒诸处皆善。"
+            source="神农本草经集注"/>
+   <text_db name="玉屑"
+            location="于阗"
+            ID="yutian"
+            quote="好玉出蓝田，及南阳徐善亭部界中，日南、卢容水中，外国于阗、疏勒诸处皆善。"
+            source="神农本草经集注"/>
+   <text_db name="玉屑"
+            location="疏勒"
+            ID="shule"
+            quote="好玉出蓝田，及南阳徐善亭部界中，日南、卢容水中，外国于阗、疏勒诸处皆善。"
+            source="神农本草经集注"/>
+   <text_db name="玉泉"
+            location="蓝田"
+            ID="hvd_70751"
+            quote="一名玉札，生蓝田山谷，采无时。"
+            source="神农本草经集注"/>
+   <text_db name="丹砂"
+            location="涪陵"
+            ID="hvd_115234"
+            quote="生涪陵山谷，采无时。"
+            source="神农本草经集注"/>
+   <text_db name="丹砂"
+            location="武都仇池"
+            ID="hvd_71125"
+            quote="世医皆别取武都仇池雄黄夹雌黄者，名为丹砂。"
+            source="神农本草经集注"/>
+   <text_db name="丹砂"
+            location="武陵"
+            ID="hvd_45941"
+            quote="涪陵是涪州，接巴郡南，今无复采者。乃出武陵，西川诸蛮夷中，皆通属巴地，故谓&#xA;    之巴沙。《仙经》亦用越沙，即出广州临漳者，此二处并好，惟须光明莹澈为佳。"
+            source="神农本草经集注"/>
+   <text_db name="丹砂"
+            location="西川"
+            ID="hvd_113524"
+            quote="涪陵是涪州，接巴郡南，今无复采者。乃出武陵，西川诸蛮夷中，皆通属巴地，故谓&#xA;    之巴沙。《仙经》亦用越沙，即出广州临漳者，此二处并好，惟须光明莹澈为佳。"
+            source="神农本草经集注"/>
+   <text_db name="丹砂"
+            location="临漳"
+            ID="hvd_35100"
+            quote="涪陵是涪州，接巴郡南，今无复采者。乃出武陵，西川诸蛮夷中，皆通属巴地，故谓&#xA;    之巴沙。《仙经》亦用越沙，即出广州临漳者，此二处并好，惟须光明莹澈为佳。"
+            source="神农本草经集注"/>
+   <text_db name="水银"
+            location="涪陵"
+            ID="hvd_115234"
+            quote="生涪陵&#xA;平土，出于丹砂。"
+            source="神农本草经集注"/>
+   <text_db name="空青"
+            location="益州"
+            ID="hvd_113524"
+            quote="生益州山谷及越西山有铜处。"
+            source="神农本草经集注"/>
+   <text_db name="空青"
+            location="越西"
+            ID="hvd_110288"
+            quote="生益州山谷及越西山有铜处。"
+            source="神农本草经集注"/>
+   <text_db name="空青"
+            location="西平郡"
+            ID="hvd_115968"
+            quote="凉州西平郡有空青山，亦甚多。"
+            source="神农本草经集注"/>
+   <text_db name="空青"
+            location="蔚州"
+            ID="hvd_110836"
+            quote="今出蔚州、兰州、宣州、梓州，宣州者最好，块段细，时有腹中空&#xA;者；"
+            source="新修本草"/>
+   <text_db name="空青"
+            location="兰州"
+            ID="hvd_110793"
+            quote="今出蔚州、兰州、宣州、梓州，宣州者最好，块段细，时有腹中空&#xA;者；"
+            source="新修本草"/>
+   <text_db name="空青"
+            location="宣州"
+            ID="hvd_32472"
+            quote="今出蔚州、兰州、宣州、梓州，宣州者最好，块段细，时有腹中空&#xA;者；"
+            source="新修本草"/>
+   <text_db name="空青"
+            location="梓州"
+            ID="hvd_110817"
+            quote="今出蔚州、兰州、宣州、梓州，宣州者最好，块段细，时有腹中空&#xA;者；"
+            source="新修本草"/>
+   <text_db name="青石、赤石、黄石、白石、黑石脂等"
+            location="济南太山"
+            ID="taishan"
+            quote="此石济南太山不闻出者，今虢州卢氏县、泽州陵川县及慈州吕乡县并有，色理鲜腻，宜州诸山亦有。"
+            source="新修本草"/>
+   <text_db name="青石、赤石、黄石、白石、黑石脂等"
+            location="虢州卢氏县"
+            ID="hvd_83180"
+            quote="此石济南太山不闻出者，今虢州卢氏县、泽州陵川县及慈州吕乡县并有，色理鲜腻，宜州诸山亦有。"
+            source="新修本草"/>
+   <text_db name="青石、赤石、黄石、白石、黑石脂等"
+            location="泽州陵川县"
+            ID="hvd_95714"
+            quote="此石济南太山不闻出者，今虢州卢氏县、泽州陵川县及慈州吕乡县并有，色理鲜腻，宜州诸山亦有。"
+            source="新修本草"/>
+   <text_db name="青石、赤石、黄石、白石、黑石脂等"
+            location="慈州吕乡县"
+            ID="hvd_111029"
+            quote="此石济南太山不闻出者，今虢州卢氏县、泽州陵川县及慈州吕乡县并有，色理鲜腻，宜州诸山亦有。"
+            source="新修本草"/>
+   <text_db name="青石、赤石、黄石、白石、黑石脂等"
+            location="宜州"
+            ID="hvd_116076"
+            quote="此石济南太山不闻出者，今虢州卢氏县、泽州陵川县及慈州吕乡县并有，色理鲜腻，宜州诸山亦有。"
+            source="新修本草"/>
+   <text_db name="太一禹余粮"
+            location="太山"
+            ID="taishan"
+            quote="生太山山谷。"
+            source="神农本草经集注"/>
+   <text_db name="太一禹余粮"
+            location="太山"
+            ID="taishan"
+            quote="今太山不见采得者，会稽、王屋、泽、&#xA;    潞州诸山皆有之。"
+            source="新修本草"/>
+   <text_db name="太一禹余粮"
+            location="会稽"
+            ID="hvd_32189"
+            quote="今太山不见采得者，会稽、王屋、泽、&#xA;    潞州诸山皆有之。"
+            source="新修本草"/>
+   <text_db name="太一禹余粮"
+            location="王屋"
+            ID="wangwu"
+            quote="今太山不见采得者，会稽、王屋、泽、&#xA;    潞州诸山皆有之。"
+            source="新修本草"/>
+   <text_db name="太一禹余粮"
+            location="泽"
+            ID="hvd_94076"
+            quote="今太山不见采得者，会稽、王屋、泽、&#xA;    潞州诸山皆有之。"
+            source="新修本草"/>
+   <text_db name="太一禹余粮"
+            location="潞州"
+            ID="hvd_111036"
+            quote="今太山不见采得者，会稽、王屋、泽、&#xA;    潞州诸山皆有之。"
+            source="新修本草"/>
+         <db_geo>
+                  <geo id="hvd_70751" lat="34.23927" lon="109.14697" name="蓝田县" source="chgis" time="ex"/>
+                  <geo id="hvd_32852" lat="28.13941" lon="110.18102" name="南阳郡" source="chgis" time="ex"/>
+                  <geo id="hvd_110423" lat="18.67100" lon="105.67340" name="日南郡" source="chgis" time="la"/>
+                  <geo id="yutian" lat="37.1121523" lon="79.9113453" name="于阗" basis="于阗国都城西城，今约特干遗址" source="maps.google.com" time="ex"/>
+                  <geo id="shule" lat="39.5171345" lon="75.9341008" name="疏勒" basis="今喀什" source="maps.google.com" time="la"/>
+                  <geo id="hvd_115234" lat="29.29206" lon="108.17096" source="chgis" name="涪陵郡" time="ex"/>
+                  <geo id="hvd_71125" name="仇池县" lat="33.78718" lon="105.78284" source="chgis" time="la"/>
+                  <geo id="hvd_45941" name="武陵郡" lat="32.18867" lon="109.94073" source="chgis" time="ex"/>
+                  <geo id="hvd_113524" name="益州" lat="30.65039" lon="104.07800" also="西川" source="chgis" time="ex"/>
+                  <geo id="hvd_35100" name="临漳郡" lat="21.79058" lon="109.28831" time="ex" source="chgis"/>
+                  <geo id="hvd_110288" name="越嶲郡" lat="27.89982" lon="102.26695" time="la" source="chgis" also="越西"/>
+                  <geo id="hvd_115968" name="西平郡" lat="36.60886" lon="101.78394" time="ex" source="chgis"/>
+                  <geo id="taishan" name="泰山" lat="36.2569183" lon="117.1031750" time="ex" source="osm" also="太山"/>
+                  <geo id="hvd_83180" lat="34.05261" lon="111.04092" name="卢氏县" source="chgis" time="ex"/>
+                  <geo id="hvd_95714" lat="35.77813" lon=" 113.27701" name="陵川县" source="chgis" time="ex"/>
+                  <geo id="hvd_111029" lat="36.09563" lon="110.67517" name="慈州" source="chgis" time="ex"/>
+                  <geo id="hvd_116076" lat="24.49073" lon="108.65588" name="宜州" source="chgis" time="ex"/>
+                  <geo id="hvd_32189" lat=" 30.00451" lon="120.57826" name="会稽郡" source="chgis" time="la"/>
+                  <geo id="wangwu" lat="35.2" lon="112.16667" name="王屋山" source="GeoNames" time="ex"/>
+                  <geo id="hvd_94076" lat="35.50432" lon="112.83916" name="泽州" source="chgis" time="ex"/>
+                  <geo id="hvd_111036" lat="36.18354" lon=" 113.10349" name="潞州" source="chgis" time="ex"/>
+                  <geo id="hvd_110836" lat="39.43774" lon="114.22922" name="蔚州" source="chgis" time="ex"/>
+                  <geo id="hvd_110793" lat="36.04703" lon="103.84714" name="兰州" source="chgis" time="ex"/>
+                  <geo id="hvd_32472" lat="30.94694" lon="118.74250" name="宣州" source="chgis" time="ex"/>
+                  <geo id="hvd_110817" lat="31.09462" lon="105.08757" name="梓州 " source="chgis" time="ex"/>
+                  
+         </db_geo>
+</db>

@@ -9,7 +9,7 @@
     <geo id="hvd_115234" lat="29.29206" lon="108.17096" source="chgis" name="涪陵郡" time="ex"/>
     <geo id="hvd_71125" name="仇池县" lat="33.78718" lon="105.78284" source="chgis" time="la"/>
     <geo id="hvd_45941" name="武陵郡" lat="32.18867" lon="109.94073" source="chgis" time="ex"/>
-    <geo id="hvd_113524" name="益州" lat="30.65039" lon="104.07800" also="西川" source="chgis" time="ex"/>
+    <geo id="hvd_113524" name="益州" lat="30.65039" lon="104.07800" also="西川、蜀中" source="chgis" time="ex"/>
     <geo id="hvd_35100" name="临漳郡" lat="21.79058" lon="109.28831" time="ex" source="chgis"/>
     <geo id="hvd_110288" name="越嶲郡" lat="27.89982" lon="102.26695" time="la" source="chgis" also="越西"/>
     <geo id="hvd_115968" name="西平郡" lat="36.60886" lon="101.78394" time="ex" source="chgis"/>
@@ -26,5 +26,24 @@
     <geo id="hvd_110793" lat="36.04703" lon="103.84714" name="兰州" source="chgis" time="ex"/>
     <geo id="hvd_32472" lat="30.94694" lon="118.74250" name="宣州" source="chgis" time="ex"/>
     <geo id="hvd_110817" lat="31.09462" lon="105.08757" name="梓州 " source="chgis" time="ex"/>
-    
+    <geo id="hvd_92233" lat="24.81021" lon="113.60342" name="始兴郡" source="chgis" time="ex"/>
+    <geo id="hvd_34369" lat="30.57367" lon="114.30666" name="鄂州" source="chgis" time="ex"/>
+    <geo id="hvd_32583" lat="28.67490" lon="115.89772" name="豫章郡" source="chgis" time="ex"/>
+    <geo id="hvd_111059" lat="30.39027 " lon="104.55041" name="简州" source="chgis" time="ex"/>
+    <geo id="hvd_34243" lat="20.26113" lon="110.15652" name="朱崖郡" source="chgis" time="ex"/>
+    <geo id="hvd_110173" lat="15.78800" lon="108.27390" name="林邑" source="chgis" time="ea" basis="chgis:林邑郡"/>
+    <geo id="funan" lat="11.31922" lon="105.28134" name="扶南" source="GeoNames" time="ex" basis="Capital, probably in Phum Banam, Prey Veng Province, Cambodia."/>
+    <geo id="hvd_43425" lat="30.40272" lon="114.87991" name="武昌县" source="chgis" time="ex"/>
+    <geo id="qiangdao" lat="33.62903" lon="104.28436" name="羌道" source="GeoNames" time="ex" basis="古县名。西汉置，因县境为羌族所居故名。治所在今甘肃舟曲县北。三国后废。"/>
+    <geo id="hvd_113322" lat="33.95291" lon="105.21498" name="梁州" source="chgis" time="ex"/>
+    <geo id="hvd_88074" lat=" 37.56598" lon="115.56381" name="信都县" source="chgis" time="ex"/>
+    <geo id="hvd_95487" lat="34.85941" lon="110.61755" name="虞乡县 " source="chgis" time="ex"/>
+    <geo id="hvd_115519" lat="35.15380" lon="118.38945" name="琅琊国" source="chgis" time="ea"/>
+    <geo id="hvd_112972" lat="36.69748" lon="118.47810" name="青州" source="chgis" time="ex"/>
+    <geo id="lushan" lat="29.5725" lon="115.973333" name="庐山" source="Wikipedia" time="ex"/>
+    <geo id="hvd_115915" lat="31.47779" lon="103.57815" name="汶山郡" source="chgis" time="ex"/>
+    <geo id="hvd_96436" lat=" 32.04317" lon="103.68100" name="蚕陵县" source="chgis" time="ex"/>
+    <geo id="hvd_110180" lat="33.39484" lon="104.92928" name="武都郡" source="chgis" time="la"/>
+    <geo id="hvd_110181" lat="34.98360" lon="104.65988" name="陇西郡" source="chgis" time="la"/>
+    <geo id="hvd_110177" lat="34.03247" lon="104.36445" name="宕昌郡" source="chgis" time="la"/>
 </db>

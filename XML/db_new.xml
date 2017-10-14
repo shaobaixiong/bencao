@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/db_Schema.rnc" type="application/relax-ng-compact-syntax"?>
+<db>
+    <geo id="hvd_70749" lat="34.23927" lon="109.14697" name="藍田縣" source="chgis" time="from -379 to 445"/>
+    <geo id="nanyang" lat="32.99472" lon="112.53278" name="南阳" source="GeoNames" time="modern" basis="南北朝有南阳郡，郡治在今湖南。今河南南阳独山玉有名，故此处南阳应为处于今河南的南阳郡。"/>
+    <geo id="hvd_110423" lat="18.67100" lon="105.67340" name="日南郡" source="chgis" time="from 607 to 621"/>
+    <geo id="lurong" lat="16.462" lon="107.595" name="顺化" also="卢容" source="GeoNames" time="modern" basis="卢容，今越南顺化东北。"/>
+    <geo id="yutian" lat="37.1121523" lon="79.9113453" name="约特干遗址" also="于阗" basis="于阗国都城西城，今约特干遗址" source="maps.google.com" time="modern"/>
+    <geo id="shule" lat="39.5171345" lon="75.9341008" name="喀什" also="疏勒" basis="今喀什" source="maps.google.com" time="modern"/>
+    <geo id="hvd_92233" lat="24.81021" lon="113.60342" name="始兴郡" source="chgis" time="from 479 to 506" basis="益州有始兴县hvd_96329，因文中称'益州诸郡无复有'，故选择岭南始兴郡。"/>
+    <geo id="hvd_35100" lat="21.79058" lon="109.28831" name="臨漳郡" source="chgis" time="from 471 to 501"/>
+    <geo id="hvd_45941" lat="32.18867" lon="109.94073" name="武陵縣" source="chgis" time="from 502 to 550"/>
+    <geo id="hvd_71125" lat="33.78718" lon="105.78284" name="仇池縣" source="chgis" time="from 553 to 597"/>
+    <geo id="hvd_113523" lat="30.65039" lon="104.07800" name="益州" source="chgis" time="from 184 to 263"/>
+    <geo id="hvd_113524" lat="30.65039" lon="104.07800" name="益州" source="chgis" time="from 264 to 606"/>
+    <geo id="hvd_115234" lat="29.29206" lon="108.17096" name="涪陵郡" source="chgis" time="from 250 to 582"/>
+    <geo id="hvd_116149" lat="27.89982" lon="102.26695" name="越嶲郡" source="chgis" time="from -111 to 224"/>
+    <geo id="hvd_115968" lat="36.60886" lon="101.78394" name="西平郡" source="chgis" time="from -208 to 757"/>
+    <geo id="hvd_110836" lat="39.43774" lon="114.22922" name="蔚州" source="chgis" time="from 631 to 722"/>
+    <geo id="hvd_110793" lat="36.04703" lon="103.84714" name="兰州" source="chgis" time="from 619 to 716"/>
+    <geo id="hvd_32472" lat="30.94694" lon="118.74250" name="宣州" source="chgis" time="from 620 to 741"/>
+    <geo id="hvd_110817" lat="31.09462" lon="105.08757" name="梓州" source="chgis" time="from 618 to 718"/>
+    <geo id="hvd_34369" lat="30.57367" lon="114.30666" name="鄂州" source="chgis" time=" from 621 to 741 "/>
+    <geo id="hvd_32583" lat="28.67490" lon="115.89772" name="豫章郡" source="chgis" time=" from 23 to 588 "/>
+    <geo id="hvd_111059" lat="30.39027 " lon="104.55041" name="简州" source="chgis" time=" from 620 to 741 "/>
+    <geo id="hvd_34243" lat="20.26113" lon="110.15652" name="朱崖郡" source="chgis" time=" from 242 to 279 "/>
+    <geo id="hvd_112822" lat="27.34327" lon="103.71526" name="朱提郡" source="chgis" time=" from 214 to 0 "/>
+    <geo id="hvd_111052" lat="31.22697" lon="107.50009" name="通州" also="巴南" source="chgis" time=" from 618 to 741 " basis="根据谭图《元和方镇图》以及《旧唐书 卷十一》：'十一月庚辰，詔：自頃蕃戎入寇，巴南屢多征役，其巴、蓬、渠、集、壁、充、通、開等州'选择通州为巴南地区中心，在今达县。"/>
+    <geo id="hvd_110173" lat="15.78800" lon="108.27390" name="林邑郡" source="chgis" time=" from 607 to 616 "/>
+    <geo id="funan" lat="11.31922" lon="105.28134" name="Phum Banam" also="扶南" source="GeoNames" time="modern" basis="Capital, probably in Phum Banam, Prey Veng Province, Cambodia."/>
+    <geo id="hvd_43425" lat="30.40272" lon="114.87991" name="武昌縣" source="chgis" time=" from 221 to 1911 "/>
+    <geo id="qiangdao" lat="33.62903" lon="104.28436" name="舟曲" also="羌道" source="GeoNames" time="modern" basis="古县名。西汉置，因县境为羌族所居故名。治所在今甘肃舟曲县北。三国后废。"/>
+    <geo id="hvd_113322" lat="33.95291" lon="105.21498" name="梁州" source="chgis" time=" from 484 to 503 "/>
+    <geo id="hvd_88074" lat=" 37.56598" lon="115.56381" name="信都县" source="chgis" time=" from 0 to 582 "/>
+    <geo id="hvd_95487" lat="34.85941" lon="110.61755" name="虞乡县 " source="chgis" time=" from 618 to 647 "/>
+    <geo id="taishan" name="泰山" lat="36.2569183" lon="117.1031750" time="modern" source="osm" also="太山"/>
+    <geo id="lushan" lat="29.5725" lon="115.973333" name="庐山" source="Wikipedia" time="modern"/>
+    <geo id="hvd_115519" lat="35.15380" lon="118.38945" name="琅琊国" source="chgis" time=" from 206 to 215 "/>
+    <geo id="hvd_112972" lat="36.69748" lon="118.47810" name="青州" source="chgis" time=" from 418 to 606 "/>
+</db>
