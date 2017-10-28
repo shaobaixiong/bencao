@@ -29,7 +29,7 @@
     <geo id="hvd_110173" lat="15.78800" lon="108.27390" name="林邑郡" source="chgis" time=" from 607 to 616 "/>
     <geo id="funan" lat="11.31922" lon="105.28134" name="Phum Banam" also="扶南" source="GeoNames" time="modern" basis="Capital, probably in Phum Banam, Prey Veng Province, Cambodia."/>
     <geo id="hvd_43425" lat="30.40272" lon="114.87991" name="武昌縣" source="chgis" time=" from 221 to 1911 "/>
-    <geo id="qiangdao" lat="33.62903" lon="104.28436" name="舟曲" also="羌道" source="GeoNames" time="modern" basis="古县名。西汉置，因县境为羌族所居故名。治所在今甘肃舟曲县北。三国后废。"/>
+    <geo id="qiangdao" lat="33.62903" lon="104.28436" name="舟曲" also="羌道、西羌" source="GeoNames" time="modern" basis="古县名。西汉置，因县境为羌族所居故名。治所在今甘肃舟曲县北。三国后废。"/>
     <geo id="hvd_113322" lat="33.95291" lon="105.21498" name="梁州" source="chgis" time=" from 484 to 503 "/>
     <geo id="hvd_88074" lat=" 37.56598" lon="115.56381" name="信都县" source="chgis" time=" from 0 to 582 "/>
     <geo id="hvd_95487" lat="34.85941" lon="110.61755" name="虞乡县 " source="chgis" time=" from 618 to 647 "/>
@@ -45,5 +45,48 @@
     <geo id="hvd_32878" lat="29.03481" lon="111.69130" name="朗州" source="chgis" time="from 621 to 741 "/>
     <geo id="hvd_32839" lat="25.80272" lon=" 113.02514" name="郴州" source="chgis" time=" from 621 to 741 "/>
     <geo id="hvd_34457" lat="30.70423" lon="111.28712" name="峽州" source="chgis" time=" from 635 to 741 "/>
-    <geo id="hvd_34484" lat="32.05897" lon="" name="110.72715" source="chgis" time=" from 636 to 741 "/>
+    <geo id="hvd_34484" lat="32.05897" lon="110.72715" name="房州" source="chgis" time=" from 636 to 741 "/>
+    <geo id="hvd_115915" lat="31.47779" lon="103.57815" name="汶山郡" source="chgis" also="益州北部西川" time=" from 223 to 567 "/>
+    <geo id="hvd_96436" lat=" 32.04317" lon="103.68100" name="蚕陵县" source="chgis" time=" from 23 to 346 "/>
+    <geo id="hvd_110180" lat="33.39484" lon="104.92928" name="武都郡" source="chgis" time=" from 607 to 617 "/>
+    <geo id="hvd_110181" lat="34.98360" lon="104.65988" name="陇西郡" source="chgis" time=" from 607 to 617 "/>
+    <geo id="hvd_110177" lat="34.03247" lon="104.36445" name="宕昌郡" source="chgis" time=" from 607 to 617 "/>
+    <geo id="hvd_113540" lat="25.04599" lon="103.56492" name="寧州" source="chgis" time=" from 479 to 501 "/>
+    <geo id="hexi" lat="35.3002082" lon="101.5818192" name="武威" source="maps.google.com" time="modern" also="河西山谷"/>
+    <geo id="hvd_112802" lat="33.95291" lon="105.21498" name="武都郡" source="chgis" time=" from 140 to 219 " also="石门" basis="北魏太平真君七年(446)置武都郡于石门县。"/>
+    <geo id="hvd_82783" lat="33.25974" lon="113.02336" name="堵阳县" source="chgis" time=" from 37 to 452 "/>
+    <geo id="hvd_85433" lat="37.17543" lon="119.93800" name="掖縣 " source="chgis" time=" from 23 to 32 "/>
+    <geo id="hvd_82523" lat="35.03897" lon="113.78767" name="卷縣" source="chgis" time=" from -221 to 446 "/>
+    <geo id="hvd_110003" lat="28.19820" lon="112.97813" name="湘州" source="chgis" time=" from 453 to 588 "/>
+    <geo id="hvd_35020" lat="25.28006 " lon="110.28626" name="始安郡" source="chgis" time=" from 479 to 541 "/>
+    <geo id="hvd_111019" lat="36.65013" lon="117.00149" name="齊州" source="chgis" time=" from 618 to 741 "/>
+    <geo id="hvd_32358" lat="30.86496" lon="120.09931" name="吳興郡" source="chgis" time=" from 405 to 588 "/>
+    <geo id="hvd_40791" lat="29.71314" lon=" 120.22766" name="諸暨縣" source="chgis" time=" from 23 to 885 "/>
+    <geo id="hvd_70324" lat=" 34.56770" lon="110.09560" name="華陰縣" source="chgis" time=" from 23 to 608 "/>
+    <geo id="hvd_32265" lat="29.61229" lon=" 118.96516" name="新安郡 " source="chgis" time=" from 280 to 588 "/>
+    <geo id="bagongshan" lat="32.6537041" lon="116.7566539" name="八公山" source="maps.google.com" time="modern"/>
+    <geo id="hvd_94076" lat=" 35.50432" lon="112.83916" name="澤州 " source="chgis" time=" from 627 to 741 "/>
+    <geo id="hvd_110962" lat="34.52751 " lon="110.86538" name="虢州" source="chgis" time=" from 634 to 741 "/>
+    <geo id="hvd_110963" lat=" 34.66528" lon="112.38263" name="洛州" source="chgis" time=" from 621 to 741 "/>
+    <geo id="hvd_115689" lat="36.80961" lon="118.28753" name="齐国" source="chgis" time=" from -127 to 316 "/>
+    <geo id="hvd_42737" lat="33.30500" lon="119.61617 " name="射陽縣" source="chgis" time=" from 23 to 223 "/>
+    <geo id="hvd_83180" lat="34.05261 " lon="111.04092" name="盧氏縣" source="chgis" time=" from 23 to 1911 "/>
+    <geo id="hvd_95714" lat=" 35.77813" lon=" 113.27701" name="陵川縣" source="chgis" time=" from 597 to 1265 "/>
+    <geo id="hvd_111029" lat="36.09563" lon="110.67517" name="慈州" source="chgis" time=" from 625 to 741 "/>
+    <geo id="hvd_116076" lat="24.49073" lon="108.65588" name="宜州" source="chgis" time=" from 618 to 1296 "/>
+    <geo id="hvd_116101" lat="34.16249" lon="113.46706" name="潁川郡" source="chgis" time=" from 2 to 582 "/>
+    <geo id="hvd_115435" lat="31.09457 " lon=" 109.88928" name="建平郡" source="chgis" time=" from 260 to 582 "/>
+    <geo id="hvd_82677" lat=" 32.06562" lon="114.20988 " name="義陽縣 " source="chgis" time=" from 456 to 582 "/>
+    <geo id="hvd_40085" lat="30.27177" lon="119.94059" name="余杭縣" source="chgis" time=" from 173 to 1911 "/>
+    <geo id="hvd_32069" lat=" 31.31271" lon="120.61862" name="蘇州" source="chgis" time=" from 624 to 741 "/>
+    <geo id="hvd_32054" lat="31.31271" lon=" 120.61862 " name="吳郡" source="chgis" time=" from 129 to 548 "/>
+    <geo id="hvd_40763" lat=" 30.00451" lon="120.57826 " name="會稽縣" source="chgis" time=" from 589 to 1911 "/>
+    <geo id="wangwu" lat="35.2000333" lon="112.1491571" name="王屋山" source="maps.google.com" time="modern"/>
+    <geo id="hvd_111036" lat=" 36.18354" lon="113.10349" name="潞州" source="chgis" time=" from 618 to 741 "/>
+    <geo id="hvd_33402" lat="34.64131" lon="118.30271" name="東海國" source="chgis" time=" from 212 to 219 "/>
+    <geo id="hvd_32267" lat="29.10471" lon="119.64992" name="東陽郡" source="chgis" time=" from 266 to 588 "/>
+    <geo id="maoshan" lat="31.7848258" lon="119.3025534" name="茅山" source="maps.google.com" time="modern"/>
+    <geo id="hvd_33480" lat="31.86446" lon=" 117.27646" name="廬江郡" source="chgis" time=" from 607 to 619 "/>
+    <geo id="gaoli" lat="39.03385" lon="125.75432" name="平壤" source="GeoNames" time="modern" basis="从中国历史地图集看出，南北朝高丽有首都平壤。"/>
+    <geo id="xiyu" lat="42.8597159" lon="89.5297193" name="高昌古城" source="maps.google.com" time="modern" basis="从中国历史地图集看出，南北朝西域从高昌开始。"/>
 </db>

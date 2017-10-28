@@ -1,0 +1,5 @@
+v6_time_pref_pts.png (image/png) 4937707 bytes.
+v6_time_pref_pts_gbk_wgs84.zip (application/zipped-shapefile) 282615 bytes.
+v6_time_pref_pts_gbk_xian80.zip (application/zipped-shapefile) 282850 bytes.
+v6_time_pref_pts_utf_wgs84.zip (application/zipped-shapefile) 288343 bytes.
+v6_time_pref_pts_utf_xian80.zip (application/zipped-shapefile) 288578 bytes.

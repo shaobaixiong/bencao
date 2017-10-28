@@ -1,0 +1,6 @@
+CHGIS_V6_README.txt (text/plain) 2323 bytes.
+CHGIS_V6_Time_Counties.jpg (image/jpeg) 690761 bytes.
+v6_time_cnty_pts_gbk.zip (application/zipped-shapefile) 525242 bytes.
+v6_time_cnty_pts_gbk_wgs84.zip (application/zipped-shapefile) 525543 bytes.
+v6_time_cnty_pts_utf.zip (application/zipped-shapefile) 544402 bytes.
+v6_time_cnty_pts_utf_wgs84.zip (application/zipped-shapefile) 544703 bytes.
