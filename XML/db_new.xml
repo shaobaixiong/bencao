@@ -89,4 +89,7 @@
     <geo id="hvd_33480" lat="31.86446" lon=" 117.27646" name="廬江郡" source="chgis" time=" from 607 to 619 "/>
     <geo id="gaoli" lat="39.03385" lon="125.75432" name="平壤" source="GeoNames" time="modern" basis="从中国历史地图集看出，南北朝高丽有首都平壤。"/>
     <geo id="xiyu" lat="42.8597159" lon="89.5297193" name="高昌古城" source="maps.google.com" time="modern" basis="从中国历史地图集看出，南北朝西域从高昌开始。"/>
+    <geo id="jishan" lat="34.3767837" lon="113.0346154" also="箕山" name="东华镇" source="maps.google.com" time="modern"/>
+    <geo id="yangqishan" lat="36.6115209" lon="116.8743628" also="阳起山" name="历城区" source="maps.google.com" time="modern" basis="山东济南历城区"/>
+    <geo id="changshan" lat="39.0580325" lon="114.461205" name="大茂山" also="恒山、常山" source="maps.google.com" time="modern" basis="即河北省阜平县东北的古北岳恒山今神仙山，文献一般记载为北岳在曲阳，曲阳有北岳庙。阜平县为金朝析曲阳而设置。汉、宋避帝讳为常山（汉文帝、宋真宗均名恒）。"/>
 </db>
