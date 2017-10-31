@@ -92,4 +92,11 @@
     <geo id="jishan" lat="34.3767837" lon="113.0346154" also="箕山" name="东华镇" source="maps.google.com" time="modern"/>
     <geo id="yangqishan" lat="36.6115209" lon="116.8743628" also="阳起山" name="历城区" source="maps.google.com" time="modern" basis="山东济南历城区"/>
     <geo id="changshan" lat="39.0580325" lon="114.461205" name="大茂山" also="恒山、常山" source="maps.google.com" time="modern" basis="即河北省阜平县东北的古北岳恒山今神仙山，文献一般记载为北岳在曲阳，曲阳有北岳庙。阜平县为金朝析曲阳而设置。汉、宋避帝讳为常山（汉文帝、宋真宗均名恒）。"/>
+    <geo id="mengshan" lat="35.4741413" lon="118.0821683" name="沂蒙山" source="maps.google.com" time="modern"/>
+    <geo id="xicheng" lat="35.4653663" lon="112.3607073" name="析城山" also="析城" source="maps.google.com" time="modern"/>
+    <geo id="fangcheng" lat="35.6444798" lon="114.2266873" name="浚县" source="maps.google.com" time="modern" also="枋城"/>
+    <geo id="yanqi" lat="42.0880184" lon="85.4310887" name="焉耆回族自治州" source="maps.google.com" time="modern" also="焉耆国"/>
+    <geo id="bosi" lat="32.633333" lon="51.65" name="伊斯法罕" source="maps.google.com" time="modern"/>
+    <geo id="shiziguo" lat="6.934444" lon="79.842778" name="科伦坡" source="maps.google.com" time="modern" also="师子国"/>
+    <geo id="yanchi" lat="35.0264" lon="111.0076" name="运城" source="maps.google.com" time="modern" also="河东盐池"/>
 </db>

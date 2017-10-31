@@ -3,7 +3,7 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0">
     <xsl:output method="xml" indent="yes"/>
     <xsl:template match="/">
-        <db><xsl:apply-templates select="//geo"/></db>
+        <db><xsl:apply-templates select="//geo[@condition='true']"/></db>
     </xsl:template>
     <xsl:template match="geo">
         <geo>
@@ -15,17 +15,14 @@
             </xsl:attribute>
             <xsl:attribute name="source">
                 <xsl:if test="ancestor::sy">
-                    <xsl:text>sy</xsl:text>
+                    <xsl:text>神农本草经</xsl:text>
                 </xsl:if>
                 <xsl:if test="ancestor::s">
-                    <xsl:text>s</xsl:text>
+                    <xsl:text>神农本草经集注</xsl:text>
                 </xsl:if>
                 <xsl:if test="ancestor::x">
-                    <xsl:text>x</xsl:text>
+                    <xsl:text>新修本草</xsl:text>
                 </xsl:if>
-            </xsl:attribute>
-            <xsl:attribute name="condition">
-                <xsl:value-of select="@condition"/>
             </xsl:attribute>
             <xsl:attribute name="quote">
                 <xsl:value-of select="ancestor::quote"/>
