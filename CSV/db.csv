@@ -1,4 +1,4 @@
-﻿_id;_lat;_lon;_name;_source;_time;_basis;_also
+ID;Y_COOR;X_COOR;NAME;SOURCE;TIME;BASIS;ALSO
 hvd_70749;34.23927;109.14697;藍田縣;chgis;from -379 to 445;;
 nanyang;32.99472;112.53278;南阳;GeoNames;modern;南北朝有南阳郡，郡治在今湖南。今河南南阳独山玉有名，故此处南阳应为处于今河南的南阳郡。;
 hvd_110423;18.67100;105.67340;日南郡;chgis;from 607 to 621;;
@@ -96,3 +96,8 @@ fangcheng;35.6444798;114.2266873;浚县;maps.google.com;modern;;枋城
 yanqi;42.0880184;85.4310887;焉耆回族自治州;maps.google.com;modern;;焉耆国
 bosi;32.633333;51.65;伊斯法罕;maps.google.com;modern;;
 shiziguo;6.934444;79.842778;科伦坡;maps.google.com;modern;;师子国
+yanchi;35.0264;111.0076;运城;maps.google.com;modern;;河东盐池
+henanyanchi;37.6219155;106.5453447;盐池县;maps.google.com;modern;;河南盐池
+hvd_30302;23.13462; 113.25607;广州;chgis; from 264 to 588;;
+langzhou;39.6225148;113.3995382;浑源县;maps.google.com;modern;;廊州
+chuanxi;30.659722;104.063333;成都市;osm;modern;;川西
