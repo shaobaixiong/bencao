@@ -7,7 +7,7 @@
         <s>
             杀锡毒，得水银良，畏乌鸡骨。此即《蜀都赋》所称青珠、黄环者也。黄环乃是草，苟取名类，而种族为乖。琅玕亦是昆山上树名，又《九真经》中太丹名也。此石今亦无用，唯以疗手足逆胪目。化丹之事，未的见其术。</s>
         <x>〔谨案〕琅玕，乃有数种色，是琉璃之类，火齐宝也。且琅 五色，其以青者入药为胜，<quote>今出<geo ref="211360" condition="true"
-                    class="2">嶲州以西乌白蛮</geo>中及<geo ref="yutian" condition="true" class="1"
+                    class="1">嶲州以西乌白蛮</geo>中及<geo ref="yutian" condition="true" class="1"
                 >于阗国</geo>也。</quote>
         </x>
     </herb>
@@ -59,14 +59,14 @@
                     class="3">防陵</geo>、<geo ref="212436" ps="汉川郡" condition="true" class="2"
                     >汉川</geo>与白【兴石】石同处，有色青者，并毒杀禽兽，与 石同。</quote>汉中人亦取以毒鼠，不入方用。<quote>此石出<tag>梁州</tag>、<geo ref="34492" condition="true" class="2"
                     >均州</geo>、<geo ref="34484" condition="true" class="2">房州</geo>，与二
-                石同处，特生、苍石并生西城，在汉川金州是也。</quote>
+                石同处，特生、苍石并生<geo ref="200069" ps="西城县" class="3" condition="true">西城</geo>，在汉川金州是也。</quote>
         </x>
     </herb>
     <herb name="土殷孽">
         <sy>味咸，无毒。主妇人阴蚀，大热，干痂。生高山崖上之阴，色白如脂，采无时。</sy>
         <s>此犹似钟乳、孔公孽之类，故亦有孽名，但在崖上耳，今时有之，但不复采用耳。</s>
-        <x>〔谨案〕此即土乳是也。<quote>出<geo ref="70029" condition="abandon" ps="鄣县" class="3"
-                    >渭州鄣县三交驿西北坡平地土窟中，见有六十余坎昔人采处。土人云∶服陶及《本经》俱云在崖上，此说非也。今渭州不复采用也。</geo></quote>
+        <x>〔谨案〕此即土乳是也。<quote>出<geo ref="70029" condition="abandon" ps="鄣县" class="4"
+                    >渭州鄣县三交驿西北坡平地土窟</geo>中，见有六十余坎昔人采处。土人云∶服陶及《本经》俱云在崖上，此说非也。今渭州不复采用也。</quote>
         </x>
     </herb>
     <herb name="代赭">
@@ -86,11 +86,11 @@
         <sy>味苦、咸，寒，无毒。主大热，消渴，狂烦，除邪，及吐下蛊毒，柔肌肤。去五脏肠胃留热，结气，心下坚，食已呕逆，喘满，明目，目痛。<quote>生<geo ref="yanchi"
                     condition="true" ps="运城" class="4">河东盐池</geo>。</quote></sy>
         <s>云是煎盐釜下凝滓。</s>
-        <x>〔谨案〕<quote>卤咸即生<geo ref="yanchi" condition="continue" class="3"
+        <x>〔谨案〕<quote>卤咸即生<geo ref="yanchi" condition="continue" class="4"
                 >河东</geo>，河东盐不釜煎，明非凝滓也。</quote>此是碱土名卤咸，今人熟皮用之，字作古陷反，斯则于碱地掘取之。 </x>
     </herb>
     <herb name="大盐">
-        <sy>令人吐。<quote>生<geo ref="87010" condition="true" ps="邯郸县" class="3">邯郸</geo>及<geo
+        <sy>令人吐。<quote>生<geo ref="87010" condition="true" ps="邯郸县，vol4中说即赵郡，便按郡算。" class="2">邯郸</geo>及<geo
                     ref="yanchi" condition="true" class="4"
             >河东池泽</geo>。</quote>味甘、咸，寒，无毒。主肠胃结热，喘逆，吐胸中病。</sy>
         <s>漏芦为之使。</s>
@@ -105,10 +105,10 @@
         <s><quote>今俗中不复见卤咸，唯<tag>魏国</tag>所献虏盐，即是<geo ref="yanchi"
                     class="2" ps="河东郡，按盐池位置。" condition="true"
             >河东</geo>大盐，形如结冰圆强，味咸、苦，夏月小润液。</quote>虏中盐乃有九种∶白盐，食盐，常食者；黑盐，疗腹胀气满；胡盐，疗耳聋目痛；柔盐，疗马脊疮；又有赤盐、驳盐、臭盐、马齿盐四种，并不入食。马齿即大盐，黑盐疑是卤咸，柔盐疑是戎盐，而此戎盐又名胡盐，兼疗眼痛，二、三相乱。
-                    <quote>今戎盐虏中甚有，从<geo ref="211829" condition="true" class="1"
+                    <quote>今戎盐虏中甚有，从<geo ref="211829" condition="true" class="2"
                     >凉州</geo>来，芮芮河南使及北部胡客从<geo ref="70594" class="3" condition="true" ps="敦煌县"
                     >敦煌</geo>来，亦得之，自是希少尔。</quote>其形作块片，或如鸡鸭卵、或如菱米，色紫白，味不甚咸，口尝气臭，正如
-                    鸡子臭者言是真。<quote>又<geo ref="henanyanchi" class="1" condition="true" ps="宁夏盐池县"
+                    鸡子臭者言是真。<quote>又<geo ref="henanyanchi" class="4" condition="true" ps="宁夏盐池县"
                     >河南盐池</geo>泥中，自有凝盐如石片，打破皆方，青黑色，善疗马脊疮，又疑此或者。</quote>盐虽多种，而戎盐、卤咸最为要用。 <quote>又<geo
                     ref="44496" condition="true" class="4" ps="朐忍县"
                 >巴东朐忍县北岸</geo>有盐井，盐水自凝生粥子盐，方一、二寸，中央突张如伞形，亦有方如石膏、博棋者。</quote>李云戎盐味苦、臭，是海潮水浇山石，经久盐凝着石取之。
@@ -122,7 +122,7 @@
     </herb>
     <herb name="白垩">
         <sy>味苦、辛，温，无毒。主女子寒热，症瘕，月闭，积聚，阴肿痛，漏下，无子，止泄痢。 不可久服，伤五脏，令人羸瘦。一名白善。<quote>生<geo ref="87010"
-                    condition="true" ps="邯郸县" class="4">邯郸山谷</geo>，采无时。</quote></sy>
+                    condition="true" ps="邯郸县，根据vol4，赵郡，按郡算。" class="2">邯郸山谷</geo>，采无时。</quote></sy>
         <s>此即今画用者，甚多而贱，俗方亦希，《仙经》不须也。</s>
         <x>〔谨案〕<quote>胡居士言，<geo ref="34176" ps="始兴郡" condition="true" class="4"
                 >始兴小桂县晋阳乡</geo>有白善。</quote>
@@ -153,8 +153,8 @@
         <s>此即今人所用射者耳，取烧赤内酒中，饮汁，亦以渗之，得古者弥胜，制镂多巧也。</s>
     </herb>
     <herb name="金牙">
-        <sy>味咸，无毒。主鬼疰、毒蛊、诸疰。生蜀郡，如金色者良。</sy>
-        <s><quote>今出<geo ref="211049" class="2" condition="true" ps="蜀郡">蜀</geo><geo ref="211677"
+        <sy>味咸，无毒。主鬼疰、毒蛊、诸疰。<quote>生<geo ref="211047" condition="continue" class="2">蜀郡</geo>，如金色者良。</quote></sy>
+        <s><quote>今出<geo ref="211047" class="2" condition="continue" ps="蜀郡">蜀</geo><geo ref="211677"
                     ps="汉中郡" condition="true" class="2"
             >汉</geo>，似粗金，而大小方皆如棋子。</quote>又有铜牙亦相似，但色黑，内色小浅，不入药用。金牙唯以合酒、散及五疰丸，余方不甚须此也。</s>
         <x>〔谨案〕金牙离本处入土水中，久皆色黑，不可谓之铜牙也。<quote>此出<geo ref="211677" class="2" condition="continue"
@@ -223,7 +223,7 @@
         <x>以水煮汁饮之。主淋有效，妇人难产，两手各把一枚，主产难立验。<quote>出<geo ref="41959" condition="true" class="3"
                     ps="零陵县">零陵</geo>。</quote> 俗云因雷雨则从石穴中出，随雨飞坠者，妄也。<quote><geo ref="42112" ps="祁阳县"
                     class="4" condition="true"
-            >永州祁阳县西北百一十五里土冈上</geo>，掘深丈余取之。形似蚶而小，坚重如石也。</quote>（新附）</x>
+                        >永州祁阳县西北百一十五里土冈</geo>上，掘深丈余取之。形似蚶而小，坚重如石也。</quote>（新附）</x>
     </herb>
     <herb name="梁上尘">
         <x>主腹痛，噎，中恶，鼻衄，小儿软疮。（新附）</x>
