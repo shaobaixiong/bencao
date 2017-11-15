@@ -3,7 +3,7 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0">
     <xsl:output method="xml" indent="yes"/>
     <xsl:template match="/">
-        <db><xsl:apply-templates select="//geo[not(@ref='/')]"/></db>
+        <db><xsl:apply-templates select="//geo[not(@ref='/')][@condition='true' or 'continue']"/></db>
     </xsl:template>
     <xsl:template match="geo">
         <geo>
@@ -35,6 +35,9 @@
             </xsl:attribute>
             <xsl:attribute name="herb">
                 <xsl:value-of select="ancestor::herb/@name"/>
+            </xsl:attribute>
+            <xsl:attribute name="type">
+                <xsl:value-of select="@condition"/>
             </xsl:attribute>
         </geo>
     </xsl:template>

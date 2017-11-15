@@ -103,4 +103,7 @@
     <geo id="hvd_30302" lat="23.13462" lon=" 113.25607" name="广州" source="chgis" time=" from 264 to 588"/>
     <geo id="langzhou" lat="39.6225148" lon="113.3995382" name="浑源县" source="maps.google.com" time="modern" also="廊州"/>
     <geo id="chuanxi" lat="30.659722" lon="104.063333" name="成都市"  also="川西" source="osm" time="modern"/>
+    <geo id="hvd_115804" lat="30.65039" lon="104.07800" name="蜀郡" source="chgis" time=" from -314 to 756"/>
+    <geo id="hvd_110770" lat="40.51525" lon="96.02816" name="瓜州" source="chgis" time=" from 622 to 709"/>
+    <geo id="tianzhu" lat="28.61" lon="77.23" name="德里" also="天竺" source="osm" time="modern" basis="当时重要城市"/>
 </db>
