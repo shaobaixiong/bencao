@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "MEAN_X": 109.351283478846, "MEAN_Y": 31.0979559221154, "UID": "Single class", "dynasty": "南朝" }, "geometry": { "type": "Point", "coordinates": [ 109.35128347884617, 31.097955922115379 ] } }
-]
-}
