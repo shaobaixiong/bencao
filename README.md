@@ -29,8 +29,8 @@
         <ul>
             <li>Relax NG schema is used in this project during the process of xml markup.</li>
         </ul>
-        <h2>Project</h2>
+        <h2>VISUAL</h2>
         <ul>
-            <li>Data visualization for this project.</li>
+            <li>Data visualization for this project and material used for visualization.</li>
         </ul>
     </body>
